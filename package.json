@@ -1,0 +1,25 @@
+{
+  "name": "viewmodeljs",
+  "version": "0.5.2-alpha1.0.1",
+  "description": "Typed view model objects for your api results",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrian2x/viewmodeljs.git"
+  },
+  "keywords": [
+    "viewmodel",
+    "viewmodels"
+  ],
+  "bugs": {
+    "url": "https://github.com/adrian2x/viewmodeljs/issues"
+  },
+  "homepage": "https://github.com/adrian2x/viewmodeljs#readme",
+  "dependencies": {
+    "lazy.js": "git://github.com/adrian2x/lazy.js.git#0.5.1"
+  }
+}
